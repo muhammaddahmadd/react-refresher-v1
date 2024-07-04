@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.pizza-list-ul {
+  list-style: none;
+}
+.pizza-list-li img{
+  width: 200px;
+  height: 200px;
+}
